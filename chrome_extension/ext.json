@@ -1,0 +1,9 @@
+{
+    "ext_version":3,
+    "version":1.0,
+    "name":"Elite tracker",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"icon.png"
+    }
+}
